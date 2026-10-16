@@ -1,0 +1,23 @@
+# Day 4 — Learning Python 🐍
+
+## What I learned today
+- Practised Python input and type conversion using `int()`.
+- Learned about `try` and `except`.
+- Explored how Python handles invalid inputs using `ValueError`.
+- Practised running Python files in VS Code.
+- Learned the importance of debugging and reading error messages.
+
+## Practical work
+I experimented with input validation and tested how Python responds to numeric and non-numeric input.
+
+I also learned that typing input into the PowerShell prompt is different from entering input while a Python program is running.
+
+## Challenges
+I faced difficulties testing invalid inputs in the VS Code terminal. I'm continuing to practise running my program correctly and debugging errors.
+
+## Next goals
+- Understand loops and functions better.
+- Improve my Python Goal Tracker.
+- Continue building my personal AI assistant.
+
+**Long-term goal:** Become an AI Engineer and Data Scientist by learning consistently and building real projects.
